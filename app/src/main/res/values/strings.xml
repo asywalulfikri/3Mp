@@ -1,0 +1,627 @@
+<resources>
+    <string name="app_name">CacaHandika</string>
+
+    <string name="action_settings">Settings</string>
+    <bool name="enableAds">true</bool>
+    <string name="interstitial_ad_sample">ca-app-pub-6698646169283555/3240584081</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-6698646169283555/3240584081</string>
+
+
+    <string name="angka_satu">
+Masak masak sendiri\n
+Makan makan sendiri\n
+Cuci baju sendiri\n
+Tidurpun sendiri\n\n
+
+Cinta aku tak punya\n
+Kekasihpun tiada\n
+Semuanya tlah pergi tak tahu kemana\n
+Hidup terasa kaku bagaikan angka satu\n
+Meranalah kini merana\n\n
+
+Masak masak sendiri\n
+Makan makan sendiri\n
+Cuci baju sendiri\n
+Tidurpun sendiri\n\n
+
+Aduh .... du dududu ooo\n
+Ingin rasanya diriku\n
+Bercinta seperti dulu\n
+Tapi ku takut gagal lagi\n\n
+
+Aduh duh dududu .. ooo\n
+Kemana harus kemana\n
+Diriku membuang sepi\n
+Yang selalu menyiksa diri\n
+Atau ku relakan begini\n</string>
+
+
+    <string name="cinta_sabun_mandi">
+Aduh Nyai dengarkanlah\n
+Cintaku tulus dan suci\n
+Sama Nyai\n\n
+
+Kalau kaca bisa pecah\n
+kayu juga bisa patah\n
+Tapi cintaku pada Nyai\n
+tak akan bisa berubah\n
+Sampai tua cintaku tak akan musnah\n\n
+
+Cintaku kepada Nyai\n
+tak seperti sabun mandi\n
+Pabila sering dipakai\n
+makin habis kurang wangi\n
+Percayalah cintaku suci ka Nyai\n\n
+
+Kujual baju celana\n
+itu semua demi Nyai\n
+Aku kerja jadi kuli demi Nyai\n
+Walaupun Madonna cantik,\n
+Merylin Monroe juga cantik\n
+Tetapi bagiku lebih cantik Nyai\n\n
+
+Aku rela korban harta demi Nyai\n
+Aku rela korban nyawa demi Nyai\n
+
+Cintaku kepada Nyai\n
+tak seperti sabun mandi\n
+Pabila sering dipakai\n
+makin habis kurang wangi\n
+Percayalah cintaku suci kan Nyai\n</string>
+
+    <string name="gantungan_baju">
+Seribu... Seribu...\n
+Lebih seribu kali\n
+kau menyakiti..\n\n
+
+Percuma saja...\n
+Dirimu kembali\n
+pabila hanya...\n
+Kau pergi lagi..\n\n
+
+Percuma saja..\n
+Dirimu pulang\n
+hanya membuat\n
+kusakit hati...\n\n
+
+Rela...mungkin rela\n
+diriku kau buang..\n
+Asal saja caramu\n
+jangan begitu...\n\n
+
+Seribu...seribu\n
+lebih seribu kali..\n
+Kau menyakiti...\n\n
+
+Untuk siapa...\n
+Dirimu pulang\n
+sedang dirimu\n
+tiada lagi...\n\n
+
+Tapi mengapa..\n
+Kini kau datang\n
+sedang cintamu\n
+tiada lagi...\n\n
+
+Jangankan suratmu\n
+dan kata pamitmu...\n
+Setabur bedakpun\n
+tak kau tinggalkan...\n\n
+
+Tiada dirimu...\n
+Tiada cintamu..\n
+Yang tersisa hanya..\n
+Gantungan bajumu..\n\n
+
+Seribu... Seribu...\n
+Lebih seribu kali...\n
+Kau menyakiti...\n</string>
+
+
+    <string name="malam_penuh_rindu">
+Ma..lam ini.. ,gelisah hati.. ku\n
+Ingat kamu.. ,terbayang wajah mu\n
+Rindu.. aku rin..du…\n
+Ingin bersama.. mu…\n\n
+
+Mung..kin kah kau.. ,sama seperti ku\n
+I..ngat aku.. ,terbayang wajah ku\n
+Semo..ga kau ra..sa…\n
+Apa yang.. ku ra..sa…\n\n
+
+Desir angin yang meniup\n
+Di malam i..ni…\n
+Terdegar bagai swara mu\n
+Memanggil nama.. ku…\n\n
+
+Dingin malam yang mencekam\n
+Membuat a..ku…\n
+Ingin selalu berada\n
+Dalam pelukan mu…\n
+Datanglah.. duhai sayang ku…\n
+Walaupun hanya ,di dalam mimpi…\n\n
+
+Malam ini.. ,gelisah hati ku\n
+Ingat kamu.. ,terbayang wajah mu\n
+Rindu.. aku rin..du…\n
+Ingin bersama.. mu…\n\n
+
+Desir angin yang meniup\n
+Di malam i..ni….\n
+Terdegar bagai swara mu\n
+Memanggil nama.. ku…\n\n
+
+Dingin malam yang mencekam\n
+Membuat a..ku….\n
+Ingin selalu berada\n
+Dalam pelukan mu…\n
+Datanglah.. duhai sayang ku…\n
+Walaupun hanya ,di dalam mimpi…\n\n
+
+Ma..lam ini.. ,gelisah hati ku\n
+I..ngat kamu.. ,terbayang wajah mu\n
+Rindu.. aku rin..du…\n
+Ingin bersama.. mu…\n</string>
+
+    <string name="mandi_kembang">
+Ha... Ha... Ha... Ha..\n
+Mandi Kembang Tengah Malam\n
+Jangan Kau Lakukan\n
+Kalau Hanya Mengharap Maaf Dariku\n
+
+Andai Kau Ingin Kembali\n
+Mengharap Cintaku\n
+Lupakanlah Dosa-Dosamu Yang Lalu\n\n
+
+Ha... Ha... Ha... Ha...\n
+Kumaafkan Semua Salahmu\n
+
+Walau Diri Dan Cintamu\n
+Kini Sisa Orang\n
+Namun Kedua Tanganku Rela Menerima\n
+Walau Hancur Batin Ini\n
+Karna Undangan Palsumu\n
+Namun Di Dalam Hatiku\n
+Tak Menyimpan Rasa Benci\n\n
+
+Kembalilah... Kembalilah Andai Engkau Tak Bahagia\n
+Diri Ini Pun Tak Rela Membiarkan Dirimu Tersiksa\n\n
+
+Mandi Kembang Tengah Malam\n
+Jangan Kau Lakukan\n
+Kalau Hanya Mengharap Maaf Dariku\n\n
+
+Andai Kau Ingin Kembali Mengharap Cintaku\n
+Lupakanlah Dosa-Dosamu Yang Lalu\n
+Ha... Ha... Ha... Ha...\n
+Kumaafkan Semua Salahmu\n</string>
+
+    <string name="pelaminan_kelabu">
+Kau bagaikan Rahwana\n
+menculik dewi Shinta\n
+dari tangan si Rama\n\n
+
+kursi pelaminan biru di malam pengantin\n
+janur kuning menghias di ruang tamu\n
+tapi bencana datang melanda\n
+dia istriku tercinta tanpa seizinku telah pergi\n
+ayah bundanya pun tak tahu kemana oh rimbanya\n\n
+
+kursi pelaminan biru di malam pengantin\n
+janur kuning menghias di ruang tamu\n\n
+
+* dengan seorang kekasih pertama\n
+sengaja datang melarikan dia\n
+penjahat cinta bertopengkan dewa\n
+sungguh pengecut kau bersandiwara\n
+akan ku rebut dari tangannya\n
+karna dia resmi menjadi milikku\n\n
+
+kursi pelaminan biru di malam pengantin\n
+janur kuning menghias di ruang tamu\n\n
+
+repeat *\n\n
+
+kursi pelaminan biru di malam pengantin\n
+janur kuning menghias di ruang tamu\n
+tapi bencana datang melanda\n
+dia istriku tercinta tanpa seizinku telah pergi\n
+ayah bundanya pun tak tahu kemana oh rimbanya\n\n
+
+kursi pelaminan biru di malam pengantin\n
+janur kuning menghias di ruang tamu\n</string>
+
+    <string name="cincin_putih">
+Masih terasa hangatnya malam pengantin\n
+Masih teringat ikrar setianya pengantin\n
+Tapi di hatiku hadir cinta lain\n
+Cinta seorang gadis, hai si cincin putih\n\n\n
+
+**\n
+Kusadari semua kenyataan ini\n
+Takkan mungkin aku mudah melepaskannya\n
+Walau berat hati menduakan istri\n
+Tapi berat pula berbisah dengannya\n\n
+
+***\n
+Karna cincin putih tulus pula cintanya\n\n
+
+**** (Reff:)\n
+Cincin putih sayang, tak menyesalkah engkau\n
+Menduakan hatimu, menduakan cintamu\n
+Padaku seorang lelaki yang tlah beristri\n
+Cincin putih sayang, apakah cinta ini\n
+Akan mampu bertahan, atau hancur perlahan\n
+Dan hanya menjadi kisah cinta satu malam\n
+Memang kuakui diantara kita jelas berbeda\n</string>
+
+
+    <string name="masih_adakah">
+aduhai sang bidadariku\n
+benarkah kau membenciku\n
+ataukah memang kau tak sudi lagi\n\n
+
+masih adakah rasa sayang dihatimu\n
+masih adakah sisa cinta dihatimu\n
+serta kerinduan didalam hatimu\n
+demi diriku yg mencintaimu\n
+masih adakah rasa sayang dihatimu\n
+masih adakah sisa cinta dihatimu\n
+dekatkan bibirmu\n
+bicaralah sayang\n
+walaukau berdusta aku takan marah\n
+pabila dirimu tak mau bicara\n
+berarti hatimu ada kebimbangan\n
+izinkanlah aku untuk meyakinkan\n
+bahwa dirimu masih sayang padaku\n
+masih adakah rasa sayang dihatimu\n
+masih adakah sisa cinta dihatimu\n\n
+dekatkan bibirmu\n
+bicaralah sayang\n\n
+walaukau berdusta aku takan marah\n
+pabila dirimu tak mau bicara\n
+berarti hatimu ada kebimbangan\n
+izinkanlah aku untuk meyakinkan\n
+bahwa dirimu masih sayang padaku\n
+masih adakah rasa saysng dihatimu\n
+masih adakah sisa cinta dihatimu\n</string>
+
+    <string name="pisah_ranjang">
+Lirik: Pisah Ranjang\n
+
+Duda bukan..bujang bukan..\n
+ Tapi aku sedang.. Pisah Ranjang\n
+(*)\n
+Di bilang sendiri...aku punya istri\n
+Di bilang beristri...aku bobo sendiri\n\n
+
+(**)\n
+Aduh...aduh aduh aduh aduh\n
+Mana tahan kalau begini terus terusan\n
+Istriku tersayang… malah cemburuan\n
+Menuduh aku punya pacar lagi..\n
+Menyangka aku tak setia lagi..\n
+(#)\n
+Di bilang sendiri...aku punya istri\n
+Di bilang beristri...aku bobo sendiri\n\n
+
+Duda bukan, bujang bukan\n
+…Aku sedang Pisah Ranjang\n
+…Sudah hampir tiga bulan\n
+…Hidup sendirian..\n
+
+Tempat tidur ranjang besi\n
+…Bantal guling jadi saksi\n
+…Aku tidur kedinginan\n
+…Tiada kemesraan\n\n
+
+Miring salah, tengkurap salah\n
+Yang ada hanyalah gelisah\n
+Di pikir..pikir percuma\n
+Punya istripun percuma\n\n
+
+
+Duda bukan..bujang bukan..
+ Tapi aku sedang.. Pisah Ranjang
+(*)
+Di bilang sendiri...aku punya istri
+Di bilang beristri...aku bobo sendiri
+
+(**)
+Aduh...aduh aduh aduh aduh
+Mana tahan kalau begini terus terusan
+Istriku tersayang… malah cemburuan
+Menuduh aku punya pacar lagi..
+Menyangka aku tak setia lagi..
+(#)
+Di bilang sendiri...aku punya istri
+Di bilang beristri...aku bobo sendiri
+
+Duda bukan, bujang bukan
+…Aku sedang Pisah Ranjang
+…Sudah hampir tiga bulan
+…Hidup sendirian..
+
+Tempat tidur ranjang besi
+…Bantal guling jadi saksi
+…Aku tidur kedinginan
+…Tiada kemesraan
+
+Miring salah, tengkurap salah
+Yang ada hanyalah gelisah
+Di pikir..pikir percuma
+Punya istripun percuma</string>
+
+
+    <string name="semua_tahu">
+Hati Merana Jiwaku Merana\n
+Tersiksa Karena Cinta Yang Durjana\n
+Sejuta Rasa Kecewa Di Dada\n
+Saat Ku Dengar Ayahmu Bicara\n\n
+
+Cincin Tunanganku Pengikat Cintamu\n
+Kini Kau Kembalikan Padaku..Oo..Oo..\n\n
+
+Sedangkan Dulu Ayahmu Setuju\n
+Saat Ku Pinang Kau Jadi Istriku\n
+Tapi Mengapa Ini Yang Terjadi\n
+Gagal Perkawinanku Diambang Pintu\n\n
+
+Semua Orang Pun Tau..Kalau Kau Itu Milikku\n
+Kini Di Pelaminan Kau Dengan Yang Lain\n
+Betapa Hancur Hatiku Dan Juga Orang Tuaku\n
+Atas Segala Hinaan Ayah Bundamu\n\n
+
+Kemana Kubawa Derita Hatiku Ini\n</string>
+
+    <string name="air_mata_bawang">
+Walau bibir kau merah-merahin\n
+Walau pipi kau bedak-bedakin\n
+Walau rayu kau manis-manisi\n
+Aku tak percaya...\n\n
+
+Aku yang terluka...terlanjur terluka\n
+Jangan harap lagi...dapat terobati\n\n
+
+Aku yang terbuang...terlanjur terbuang\n
+Untuk apa lagi... kau rayu kembali\n
+Karena kau dusta khianati cinta\n\n
+
+Kusangka dirimu...kini bahagia\n
+Setelah kau lari.. dengan orang lain...\n\n
+
+Reff :\n
+Setelah berulang kali kau ganti kekasih\n
+Mengapa kini meratap... kau ingin kembali...\n
+Tak ingin aku percaya.. semua sumpahmu\n
+Tak ingin lagi ku iba... melihat tangismu\n
+Karena sumpahmu hanya kata usang\n
+Dan tangismu air mata bawang\n\n
+
+Aku yang terbuang.. terlanjur terbuang\n
+Untuk apa lagi...kau rayu kembali\n</string>
+
+    <string name="undangan_palsu">
+Kalau Saja Aku Tau\n
+Salamah Itu Namamu\n
+Tak Mungkin Aku Hadiri\n
+Pesta Perkawinan Ini\n\n
+
+Engkau Kirimkan Surat Undangan\n
+Kau Tulis Nama Palsu Belaka\n
+Semula Aku Tiada Percaya\n
+Dirimu Tega Hianat Cinta\n\n
+
+Kado Yang Kubawa Ini\n
+Tak Kuasa Aku Berikan\n
+Karena Aku Kecewa\n
+Engkau Binasakan Cinta\n\n
+
+Mengapa Tega Kau Mengundangku\n
+Atau Kau Sengaja Menyakitiku\n
+Sungguh Hatimu Tiada Perduli\n
+Kau Anggap Diriku Tak Punya Hati\n\n
+
+Berjuta Sesal Dalam Hatiku\n
+Mengenang Nama Dan Cinta Palsu\n
+
+</string>
+
+    <string name="bawang_merah">
+Sering kutanyakan tentang perkawinan\n
+Namun sampai kini tak kauhiraukan\n\n
+
+Lama penantian setelah pertunangan\n
+Yang engkau curahkan hanya kepedihan\n\n
+
+Hidup bagai bawang merah kau iris kau remuk jua\n
+Untuk mengharumi rasa masakan semata\n
+Seleramu semata\n\n
+
+Begirupun aku yang harus setia\n
+Walau batin ini kau iris kau siksa\n
+
+Kuminta putus darimu, kau tak pernah mau\n
+Kuibgin pula cintamu, engkaupun tak mau tau\n
+Andai kau cintai aku, mengapa ada yang lain\n
+Andai kau sayangi aku, mengapa simpan yang lain\n
+Lihatlah tangisku tak berlinang lagi\n
+Mengeringlah sudah karna kekejamanmu\n</string>
+
+
+    <string name="bakar_kemenyan">
+Jangan-Jangan Lagi Kau Lakukan\n
+Bakar-Bakar Kemenyan Tengah Malam\n
+Karna Itu Jalan Yang Hitam\n
+Bukan Itu Bukan Keputusan\n\n
+
+Kutau Kau Dendam Cinta Kepada Bekas Pacarmu\n
+Lalu Kau Guna-Guna\n\n
+
+Jangan-Jangan Lagi Kau Lakukan\n
+Bakar-Bakar Kemenyan Tengah Malam\n\n
+
+Kalau Dia Pernah Tanamkan Dusta\n
+Jangan Balas Dia Dengan Hukum Rimba\n
+Itu Berdosa Sungguh Berdosa\n\n
+
+Terimalah Aku Sebagai Gantinya\n
+Untuk Mengobati Derita Cinta\n
+Lupakan Semua Dendam Membara\n\n
+
+Marilah Kita Merenda\n
+Merajut Sutra Asmara\n
+Akupun Masih Mencintaimu\n\n
+
+Jangan-Jangan Lagi Kau Lakukan\n
+Bakar-Bakar Kemenyan Tengah Malam\n</string>
+
+    <string name="karena_judi">
+aku sengsara karena judi\n
+aku melarat karena judi\n
+banyak hutangku karena judi\n
+judi yang membawaku mati\n\n
+
+mati akal dan pikiranku\n
+tak dapat berpikir tenang\n
+anak istriku jadi korban\n
+menanggung malu pada orang\n\n
+
+Reff:\n
+Mungkin insaf terlambat\n
+uang dan harta tertambat\n
+anak istriku melarat\n\n
+
+karena judi keparat\n
+ya Allah aku bertobat\n
+tak akan kuperbuat lagi\n\n
+
+aku sengsara karena judi\n
+aku melarat karena judi\n
+banyak hutangku karena judi\n
+judi yang membawaku mati\n\n
+
+Back to Reff:\n\n
+
+judi yang membawaku mati\n
+judi yang membawaku mati\n
+judi yang membawaku mati\n</string>
+
+    <string name="keangkuhan">
+Mengapa...harus diriku...\n
+yang.. kau hina...\n
+Sedangkan aku sangat mencintaimu...\n\n
+
+Mengapa...kau meneteskan air mata\n
+Dengan penyesalan rasa penuh dosa\n
+Padaku yang semula\n
+hanya kau anggap sampah\n
+Ternyata... kau sadari semua..\n
+Haruskah... kuterima keangkuhanmu..\n\n
+
+Kandaslah cintaku musnah harapanku\n
+Kau yang membekukan getaran jiwaku\n
+Kau yang mematahkan semangat cintaku\n\n
+
+Mampukah dirimu membalut cintaku\n
+Yang selama ini ku pendam dihati\n
+Karena bagimu aku tak berarti\n
+Akhirnya kau datang meminta padaku\n
+Satukan cinta yang pernah kau hina\n\n
+
+Haruskah... kuterima keangkuhanmu..\n\n
+
+Kandaslah cintaku musnah harapanku\n
+Kau yang membekukan getaran jiwaku\n
+Kau yang mematahkan semangat cintaku\n\n
+
+Mampukah dirimu membalut cintaku\n
+Yang selama ini ku pendam dihati\n
+Karena bagimu aku tak berarti\n
+Akhirnya kau datang meminta padaku\n
+Satukan cinta yang pernah kau hina\n\n
+
+Mengapa...kau meneteskan air mata\n
+Dengan penyesalan rasa penuh dosa\n
+Padaku yang semula\n
+hanya kau anggap sampah\n
+Ternyata... kau sadari semua..\n
+Haruskah... kuterima keangkuhanmu..\n</string>
+
+
+    <string name="jangan_mengharap">
+Hooo…o…o…\n
+Tiada berguna dikau mengharapkan\n
+Kasihmu kembali\n\n
+
+
+Hooo…o…o…\n
+Baiknya kau cari jalanmu sendiri\n
+Usah kau menanti\n\n
+
+Biarlah ku tanggung semua derita\n
+derita jiwaku yang slalu tersiksa\n
+Tersiksa karena hati putus asa\n
+Penawar tak guna yang engkau berikan\n\n
+
+Hooo…o…o…\n
+Tiada berguna dikau mengharapkan\n
+Kasihmu kembali\n
+Hooo…o…o…\n
+Usah kau sesali yang telah terjadi\n
+Oh nasibnya diri\n\n
+
+Biarlah ku tanggung semua derita\n
+derita jiwaku yang selalu tersiksa\n
+Tersiksa karena hati putus asa\n
+Penawar tak guna yang engkau berikan\n\n
+
+Hooo…o…o…\n
+Tiada berguna dikau mengharapkan\n
+Kasihmu kembali\n
+Hooo…o…o…\n
+Usah kau sesali yang telah terjadi\n
+Oh nasibnya diri\n</string>
+
+    <string name="kesunyian_jiwa">
+Masih kuterkenang\n
+malam purnama terang\n
+Kalau kau berjanji\n
+untuk setia hati\n
+Bersama bulan dan bintang\n
+yang menjadi saksi\n\n
+
+Apa yang kau kata\n
+sungguh manis terasa\n
+Baik kau ulangi\n
+untuk pegangan hati\n
+Semoga takkan berpisah\n
+itu yang kupinta\n\n
+
+Tapi tak kusangka\n
+kau hanya berdusta\n
+untuk hidup bersama\n
+baru kini terasa\n\n
+
+Kalau kau tak sudi\n
+janganlah berjanji\n
+Coba kau bayangkan\n
+nasibku ini\n\n
+
+Masa bahagia\n
+tinggal kenangan saja\n
+Cita-cita yang mulia\n
+hanya khayalan belaka\n
+Kini hampa yang kurasa\n
+kesunyian jiwa\n</string>
+
+    <string name="kabina_bina"></string>
+    <string name="bukan_kata_orang"></string>
+
+</resources>
